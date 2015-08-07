@@ -1,4 +1,4 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
 1,OSU 2M,147.160000,+,0.600000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
 2,BENSIM,147.510000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 3,CVO 2M,146.780000,-,0.600000,Tone,156.7,88.5,023,NN,FM,5.00,,,,,,
